@@ -1,4 +1,4 @@
-Console.WriteLine("My name is Hammad Shahid");
+Console.WriteLine("My name is  Hammad");
 Console.WriteLine("My Roll Number is 087");
 //divide
 Console.WriteLine("enter first number");
