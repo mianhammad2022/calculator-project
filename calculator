@@ -1,6 +1,5 @@
 Console.WriteLine("My name is Hammad Shahid");
 Console.WriteLine("My Roll Number is 087");
- 
 //divide
 Console.WriteLine("enter first number");
 int num1 = Convert.ToInt32(Console.readLine);
@@ -26,3 +25,12 @@ int num2 = Convert.ToInt32(Console ReadLine);
 num =num1-num2;
 Console.WriteLine("the number is {num}");
  subtraction
+
+//addition
+Console.WriteLine("Enetr first number");
+int num1 = Convert.ToInt32(Console,ReadLine);
+Console.WriteLine("Enetr second number");
+int num2 = Convert.ToInt32(Console,ReadLine);
+num= num1+num2;
+Console.WriteLine("the sum is {num}");
+
