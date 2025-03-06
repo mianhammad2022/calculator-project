@@ -1,5 +1,23 @@
 Console.WriteLine("My name is Hammad Shahid");
 Console.WriteLine("My Roll Number is 087");
+ 
+//divide
+Console.WriteLine("enter first number");
+int num1 = Convert.ToInt32(Console.readLine);
+Console.WriteLine("enter second number");
+int num2 = Convert.ToInt32(Console.readLine);
+num = num1/num2;
+Console. WriteLine($"the number is {num}");
+
+//multiply
+Console.WriteLIne (" Enter first number");
+int num1 = Convert.ToInt32(Console.ReadLine);
+Console.WriteLIne (" Enter second number");
+int num2 = Convert.ToInt32(Console.ReadLine);
+num = num1 * num2;
+Console.WriteLine($"the number is {num}");
+ multiply
+
 //subtraction
 Console.WriteLine("Enetr first number");
 int num1 = Convert.ToInt32(Console,ReadLine);
@@ -7,3 +25,4 @@ Console.WriteLine("Enetr second number");
 int num2 = Convert.ToInt32(Console ReadLine);
 num =num1-num2;
 Console.WriteLine("the number is {num}");
+ subtraction
